@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/Slaua4IzZJWrsHrt50DhYHrx0GUPwE2F7si3BPpW+E=",
+  "Source": "MyChromeExtensionBackend",
+  "BasePath": "_content/MyChromeExtensionBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
